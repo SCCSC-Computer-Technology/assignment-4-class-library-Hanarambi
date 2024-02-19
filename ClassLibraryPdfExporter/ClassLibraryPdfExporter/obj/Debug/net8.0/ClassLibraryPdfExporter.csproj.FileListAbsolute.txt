@@ -1,0 +1,12 @@
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\bin\Debug\net8.0\ClassLibraryPdfExporter.deps.json
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\bin\Debug\net8.0\ClassLibraryPdfExporter.dll
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\bin\Debug\net8.0\ClassLibraryPdfExporter.pdb
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\obj\Debug\net8.0\ClassLibraryPdfExporter.csproj.AssemblyReference.cache
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\obj\Debug\net8.0\ClassLibraryPdfExporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\obj\Debug\net8.0\ClassLibraryPdfExporter.AssemblyInfoInputs.cache
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\obj\Debug\net8.0\ClassLibraryPdfExporter.AssemblyInfo.cs
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\obj\Debug\net8.0\ClassLibraryPdfExporter.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\obj\Debug\net8.0\ClassLibraryPdfExporter.dll
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\obj\Debug\net8.0\refint\ClassLibraryPdfExporter.dll
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\obj\Debug\net8.0\ClassLibraryPdfExporter.pdb
+C:\Users\Johnny\source\repos\ClassLibraryPdfExporter\ClassLibraryPdfExporter\obj\Debug\net8.0\ref\ClassLibraryPdfExporter.dll
