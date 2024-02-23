@@ -1,0 +1,1 @@
+This library exports data to a PDF file. Overall the code is clean and simple. I wish there were more comments on the code explaining what each of the lines of code does like iTextDocument pdfDoc = new iTextDocument(PageSize.A4, 10f, 10f, 10f, 0f); would be a nice touch. Overall good work!
