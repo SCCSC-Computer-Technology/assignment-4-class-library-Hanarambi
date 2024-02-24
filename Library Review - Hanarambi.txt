@@ -1,0 +1,7 @@
+Code Review for Hanarambi
+
+I like this class it's simple and gets the job done. I hadn't really thought of 
+exporting data this way and I'll definatly have to play with this on future program.
+I wonder if there are other ways to manipulate the sheet that exports and you can
+have multiple methods depending on how you want the sheet to print I think that 
+would be pretty cool. Overall the code is simple and self explanatory!
